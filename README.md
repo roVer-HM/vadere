@@ -7,8 +7,6 @@
 Vadere is an open source framework for the simulation of microscopic pedestrian dynamics. In the crownet repository, we use it as mobility provider.
 Vadere provides generic model classes and visualisation and data analysis tools for two-dimensional systems. A series of pedestrian locomotion models are already implemented in the framework that are also the basis for scientific publications. Namely the optimal steps model, the gradient navigation model, and the social force model are available for simulation studies. In addition to pedestrians, other systems including cars and granular flow can be introduced into the framework.
 
-This software runs on Windows, OS X and Linux.
-
 Vadere has been developed by [Prof. Dr. Gerta Köster's](http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html)
 research group at the [Munich University of Applied Sciences](https://www.hm.edu/) at the
 [department for Computer Science and Mathematics](http://cs.hm.edu/).
